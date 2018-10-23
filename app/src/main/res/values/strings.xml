@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Coffee Ordering App</string>
+    <string name="name">Enter your name</string>
+    <string name="cups">Enter the number of cups</string>
+    <string name="your_name">Your Name:</string>
+    <string name="total_price">Total Price:</string>
+    <string name="calculate">Calculate</string>
+</resources>
